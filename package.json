@@ -9,7 +9,7 @@
         "node": ">=6.9.1"
     },
     "bin": {
-        "app": "*./index.js"
+        "app": "./index.js"
     },
     "scripts": {
         "start": "node index.js",
